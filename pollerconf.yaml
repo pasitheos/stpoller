@@ -1,0 +1,10 @@
+basePath: 'https://satoshistreasure.xyz'
+paths:
+  - name: "/what"
+    headers:
+      - example: 'value'
+    method: "GET"
+  - name: "/rules"
+  - name: "/k4"
+
+sleepTime: 30
